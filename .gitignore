@@ -1,0 +1,10 @@
+# Ignore system folders that cause permission errors
+AppData/
+Documents/
+Music/
+Pictures/
+Videos/
+*.log
+node_modules/
+.DS_Store
+
